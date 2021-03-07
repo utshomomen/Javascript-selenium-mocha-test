@@ -1,0 +1,19 @@
+{
+  "name": "selinium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --timeout 10000 index.js"
+  },
+  "author": "utshomomen",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^88.0.0",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}
