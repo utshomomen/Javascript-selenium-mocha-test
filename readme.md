@@ -6,7 +6,7 @@
 
 ### npm add chromedriver selenium-webdriver
 
-## test swite command line
+## test suite command line
 
 ### npm add mocha -D
 
